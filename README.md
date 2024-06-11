@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-# vue-lista-de-tarefas
-=======
 # vue-lista-de-tarefas
 
 ## Project setup
@@ -25,4 +22,3 @@ npm run lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
->>>>>>> 8ef1d05 (init)
